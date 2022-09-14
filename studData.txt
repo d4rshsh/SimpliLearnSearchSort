@@ -1,0 +1,10 @@
+1,Darshan,21,A  
+2,Samantha,19,S 
+3,Sidharth,20,B 
+4,Kiara,19,S 
+5,Suriya,21,S 
+6,Shriya,20,A
+7,Sonia,21,S 
+8,Dhanush,18,B 
+9,Nithya,19,B 
+10,Priya,18,A
